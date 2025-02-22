@@ -20,20 +20,6 @@ This project is a **web-based steganography tool** built with **Streamlit, OpenC
 ### Prerequisites:
 - Python 3.x installed
 - Required Python libraries: `streamlit`, `numpy`, `opencv-python`
-
-### Steps:
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/steganography-app.git
-   cd steganography-app
-   ```
-2. **Install dependencies**:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. **Run the application**:
-   ```sh
-   streamlit run app.py
    ```
 
 ## 🎯 How to Use
@@ -48,21 +34,12 @@ This project is a **web-based steganography tool** built with **Streamlit, OpenC
 - Enter the message length and passcode.
 - Retrieve the hidden message.
 
-## 👥 End Users
-- **Cybersecurity Professionals** – Secure covert communication.
-- **Journalists & Whistleblowers** – Avoid censorship.
-- **Privacy Enthusiasts** – Protect sensitive data.
-- **Ethical Hackers & Researchers** – Experiment with steganography.
+👥 End Users
+Cybersecurity Professionals** – Secure covert communication.
+Journalists & Whistleblowers** – Avoid censorship.
+Privacy Enthusiasts** – Protect sensitive data.
+Ethical Hackers & Researchers** – Experiment with steganography.
 
-## 📜 License
-This project is licensed under the **MIT License** – feel free to modify and use it.
 
-## 🌟 Contributing
-Contributions are welcome! Feel free to **fork the repository**, submit issues, or create pull requests.
 
-## 📞 Contact
-For any queries, feel free to reach out via **[your email or GitHub profile]**.
-
----
-**🚀 Hide your secrets in plain sight with this simple yet powerful tool! 🔐**
 
