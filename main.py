@@ -38,7 +38,7 @@ def decode_message(image, message_length, passcode, stored_passcode):
     return message
 
 # Streamlit interface
-st.title("Image Steganography with Streamlit")
+st.title("Secure Data Hiding in Image Using Steganography")
 
 # Define a simple passcode for encryption and decryption (This is for demonstration purposes)
 # In a real application, the passcode should be securely stored and retrieved
