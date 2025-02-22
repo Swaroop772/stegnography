@@ -35,10 +35,10 @@ This project is a **web-based steganography tool** built with **Streamlit, OpenC
 - Retrieve the hidden message.
 
 👥 End Users
-Cybersecurity Professionals** – Secure covert communication.
-Journalists & Whistleblowers** – Avoid censorship.
-Privacy Enthusiasts** – Protect sensitive data.
-Ethical Hackers & Researchers** – Experiment with steganography.
+Cybersecurity Professionals – Secure covert communication.
+Journalists & Whistleblowers – Avoid censorship.
+Privacy Enthusiasts – Protect sensitive data.
+Ethical Hackers & Researchers – Experiment with steganography.
 
 
 
